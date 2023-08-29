@@ -195,7 +195,7 @@ atualizarDicasArray() que irá inserir no Array de dicasArray que foi inicializa
     }
 ```
     
-# 4 - Resultado final
+## 4 - Resultado final
 
 4.1 - Página Inicial
 
