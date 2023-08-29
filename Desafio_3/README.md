@@ -195,4 +195,16 @@ atualizarDicasArray() que irá inserir no Array de dicasArray que foi inicializa
     }
 ```
     
+# 4 - Resultado final
 
+4.1 - Página Inicial
+
+![Alt text](image.png)
+
+4.2 - Inserindo as informações de peso e altura
+
+![Alt text](image-1.png)
+
+4.3 - Mostrando as dicas de uma saúde melhor
+
+![Alt text](image-2.png)
