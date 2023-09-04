@@ -1,0 +1,13 @@
+{
+    "welcome": "Welcome to our BMI Calculator!",
+    "weight": "Weight",
+    "height": "Height",
+    "yourIMC": "Your BMI is {imc}",
+    "belowWeight": "Below weight",
+    "idealWeight": "Ideal weight (Congratulations!)",
+    "slightlyOverweight": "Slightly overweight",
+    "obesityGrade1": "Obesity grade 1",
+    "obesityGrade2": "Obesity grade 2 (severe)",
+    "obesityGrade3": "Obesity grade 3 (morbid)"
+  }
+  

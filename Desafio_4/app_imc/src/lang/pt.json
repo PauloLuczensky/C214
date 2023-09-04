@@ -1,0 +1,13 @@
+{
+    "welcome": "Bem-vindo à nossa Calculadora de IMC!",
+    "weight": "Peso",
+    "height": "Altura",
+    "yourIMC": "Seu IMC é {imc}",
+    "belowWeight": "Abaixo do peso",
+    "idealWeight": "Peso ideal (Parabéns!)",
+    "slightlyOverweight": "Levemente acima do peso",
+    "obesityGrade1": "Obesidade grau 1",
+    "obesityGrade2": "Obesidade grau 2 (severa)",
+    "obesityGrade3": "Obesidade grau 3 (mórbida)"
+  }
+  
