@@ -1,1 +1,3 @@
-[![CI Class](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml/badge.svg)](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml)
+#Relatório CI
+
+[![CI Challenge](https://github.com/PauloLuczensky/C214/blob/main/Desafio_6/.github/workflows/ci.yml/badge.svg)](https://github.com/PauloLuczensky/C214/blob/main/Desafio_6/.github/workflows/ci.yml)
